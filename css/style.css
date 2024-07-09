@@ -45,7 +45,7 @@ style for profile photo, centered
 .profile-photo {
     display: block;
     margin: 0 auto;
-    border-radius: 0%;
+    border-radius: 5%;
     width: 30%;
     height: 10%;
     object-fit: cover;
